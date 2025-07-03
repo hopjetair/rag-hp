@@ -1,2 +1,2 @@
-# rag-fast
+# rag-hp
 High-Performance RAG System 
